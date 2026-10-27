@@ -1,0 +1,8 @@
+title: Palco
+description: Bot para Discord de compartilhamento de tela
+lang: pt-BR
+theme: jekyll-theme-minimal
+
+# O README é só a descrição do repositório, não uma página do site.
+exclude:
+  - README.md
